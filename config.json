@@ -1,0 +1,9 @@
+{
+    "pgsql": {
+        "user": "xnmdopldkdcmcj",
+        "host": "ec2-18-211-48-247.compute-1.amazonaws.com",
+        "database": "deageatfio3plj",
+        "password": "d9ebc5bb610179098fc021ca0cfdb5006b7f2110bcc0a33273c2da64fdadcb1b",
+        "port": 5432
+    }
+}
